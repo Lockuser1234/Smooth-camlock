@@ -8,7 +8,7 @@ getgenv().DNS = {
             Enabled = true,
             Mode = "Target",
             Toggle = "C",
-            Prediction = 0.11061,
+            Prediction = 0.0561,
             Parts = {"Head","LowerTorso","UpperTorso"}
         },
         FOV = {
